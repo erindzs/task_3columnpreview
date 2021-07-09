@@ -2,8 +2,10 @@
 .grid-container{
     display: grid;
     grid-template-columns: 0.2fr 0.2fr 0.2fr;
+    justify-content: center;
     margin-top: 100px;
     margin-left: auto;
+    margin-right: auto;
     height: 500px;
     width: 1440px;
 }
